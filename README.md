@@ -6,3 +6,5 @@ Set up:
   4. Note the Index #'s associated with each different audio device. You'll need to open up the power shell script and change the numbers according to the index  # given. 
 
 The batch file that comes with this can be run to execute the powershell script. 
+
+You can shortcut the batch file, and put it on your desktop or wherever is convenient. Within the shortcut, you can manually create a shortcut (Right click shortcut file -> shortcut tab -> shortcut key). 
